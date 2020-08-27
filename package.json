@@ -1,7 +1,7 @@
 {
   "name": "multiplication-app-console",
   "version": "1.0.0",
-  "description": "Console application that create txt files for each table entered",
+  "description": "Console application that create txt files for each table base entered",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
