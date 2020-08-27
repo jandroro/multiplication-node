@@ -15,7 +15,7 @@ npm install
 To display the result of a given multiplication table in the console, run the following in the console:
 
 ```
-node app list --base [base of multiplication table] --limit [limite for table]
+node app list --base [base of multiplication table] --limit [limit for table]
 ```
         
 For example:
@@ -29,7 +29,7 @@ The previous example will create the multiplication table of 2 with a limit of 1
 To create a .txt file with the same previous result explained previously, run the following in console:
 
 ```
-node app create --base [base of multiplication table] --limit [limite for table]
+node app create --base [base of multiplication table] --limit [limit for table]
 ```
 
 For example:
