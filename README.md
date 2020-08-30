@@ -12,7 +12,7 @@ First, download or clone the repository and run in console the following command
 npm install
 ```
         
-To display the result of a given multiplication table in the console, run the following in the console:
+* To display the result of a given multiplication table in the console, run the following in the console:
 
 ```
 node app list --base [base of multiplication table] --limit [limit for table]
@@ -26,7 +26,7 @@ node app list --base 2 --limit 12
             
 The previous example will create the multiplication table of 2 with a limit of 12; that is from 1 to 12.
         
-To create a .txt file with the same previous result explained previously, run the following in console:
+* To create a .txt file with the same previous result explained previously, run the following in console:
 
 ```
 node app create --base [base of multiplication table] --limit [limit for table]
